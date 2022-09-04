@@ -1,0 +1,11 @@
+# Ignore these files
+bin/*
+obj/*
+unit_tests/runners/*
+**.o
+.DS_Store
+Thumbs.db
+
+# Keep these files
+!.gitignore
+!.gitkeep
